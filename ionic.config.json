@@ -1,0 +1,9 @@
+{
+  "name": "NFC-USB",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "99226273"
+}
