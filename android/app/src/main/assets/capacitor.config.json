@@ -1,7 +1,0 @@
-{
-  "appId": "io.bliwe.nfc",
-  "appName": "NFC-USB",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "www"
-}
